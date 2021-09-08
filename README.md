@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrey Mizerov
-- 👀 I’m interested in Options
+- 👀 I’m interested in Programming on C#, Swift, Stock Options, Crypto Currences on Binance
 - 🌱 I’m currently testing Option's Strategies to earn big money
 - 💞️ I’m looking to collaborate on development of Option Strategies Back testing tool.
 - 📫 How to reach me - andrey@mizerov.com
