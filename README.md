@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrey Mizerov
 - 👀 I’m interested in Options
-- 🌱 I’m currently learning Options Strategies to earn some money
+- 🌱 I’m currently testing Option's Strategies to earn big money
 - 💞️ I’m looking to collaborate on development of Option Strategies Back testing tool.
 - 📫 How to reach me - andrey@mizerov.com
 
